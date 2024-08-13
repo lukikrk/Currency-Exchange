@@ -1,0 +1,2 @@
+application:
+	/startapp.sh
